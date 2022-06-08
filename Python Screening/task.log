@@ -1,0 +1,307 @@
+2022-06-08 22:51:54,462 INFO Function is working with this example.txt file
+2022-06-08 22:51:58,530 INFO string to be searched and replaced is placement
+2022-06-08 22:52:05,185 INFO new string to be placed is screening
+2022-06-08 22:52:05,215 INFO Provided text file is read successfully
+2022-06-08 22:52:05,215 INFO Replacing placement with screening
+2022-06-08 22:52:05,219 INFO New string replaced in input textfile
+2022-06-08 22:53:43,935 INFO Function is working with this example.txt file
+2022-06-08 22:53:49,137 INFO string to be searched and replaced is screening
+2022-06-08 22:53:51,275 INFO new string to be placed is placement
+2022-06-08 22:53:51,275 INFO Provided text file is read successfully
+2022-06-08 22:53:51,275 INFO Replacing screening with placement
+2022-06-08 22:53:51,276 INFO New string replaced in input textfile
+2022-06-08 23:35:09,769 DEBUG pickle loaded: C:\ProgramData\Anaconda3\lib\abc.py
+2022-06-08 23:35:09,835 DEBUG pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\abc.pyi
+2022-06-08 23:35:14,880 DEBUG diff parser start
+2022-06-08 23:35:14,881 DEBUG line_lengths old: 3; new: 3
+2022-06-08 23:35:14,882 DEBUG -> code[equal] old[1:2] new[1:2]
+2022-06-08 23:35:14,883 DEBUG copy old[1:1] new[1:1]
+2022-06-08 23:35:14,884 DEBUG parse_part from 2 to 3 (to 2 in part parser)
+2022-06-08 23:35:14,885 DEBUG -> code[replace] old[3:3] new[3:3]
+2022-06-08 23:35:14,885 DEBUG diff parser end
+2022-06-08 23:36:55,598 DEBUG diff parser start
+2022-06-08 23:36:55,600 DEBUG line_lengths old: 3; new: 7
+2022-06-08 23:36:55,600 DEBUG -> code[equal] old[1:2] new[1:2]
+2022-06-08 23:36:55,601 DEBUG copy old[1:1] new[1:1]
+2022-06-08 23:36:55,603 DEBUG parse_part from 2 to 3 (to 4 in part parser)
+2022-06-08 23:36:55,604 DEBUG -> code[replace] old[3:3] new[3:7]
+2022-06-08 23:36:55,605 DEBUG parse_part from 4 to 7 (to 6 in part parser)
+2022-06-08 23:36:55,606 DEBUG diff parser end
+2022-06-08 23:36:55,720 DEBUG pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2022-06-08 23:36:55,825 DEBUG pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2022-06-08 23:39:22,604 DEBUG diff parser start
+2022-06-08 23:39:22,616 DEBUG line_lengths old: 7; new: 11
+2022-06-08 23:39:22,616 DEBUG -> code[equal] old[1:6] new[1:6]
+2022-06-08 23:39:22,618 DEBUG copy old[1:3] new[1:3]
+2022-06-08 23:39:22,620 DEBUG parse_part from 4 to 4 (to 4 in part parser)
+2022-06-08 23:39:22,623 DEBUG parse_part from 5 to 9 (to 10 in part parser)
+2022-06-08 23:39:22,623 DEBUG -> code[replace] old[7:7] new[7:11]
+2022-06-08 23:39:22,624 DEBUG parse_part from 10 to 11 (to 10 in part parser)
+2022-06-08 23:39:22,625 DEBUG diff parser end
+2022-06-08 23:39:22,762 DEBUG pickle loaded: C:\ProgramData\Anaconda3\lib\typing.py
+2022-06-08 23:39:22,797 DEBUG pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\typing.pyi
+2022-06-08 23:39:24,164 DEBUG diff parser start
+2022-06-08 23:39:24,165 DEBUG line_lengths old: 11; new: 11
+2022-06-08 23:39:24,165 DEBUG -> code[equal] old[1:10] new[1:10]
+2022-06-08 23:39:24,165 DEBUG copy old[1:9] new[1:9]
+2022-06-08 23:39:24,166 DEBUG parse_part from 10 to 10 (to 10 in part parser)
+2022-06-08 23:39:24,166 DEBUG -> code[replace] old[11:11] new[11:11]
+2022-06-08 23:39:24,167 DEBUG parse_part from 11 to 11 (to 10 in part parser)
+2022-06-08 23:39:24,167 DEBUG diff parser end
+2022-06-08 23:39:46,510 DEBUG diff parser start
+2022-06-08 23:39:46,511 DEBUG line_lengths old: 11; new: 13
+2022-06-08 23:39:46,512 DEBUG -> code[equal] old[1:10] new[1:10]
+2022-06-08 23:39:46,513 DEBUG copy old[1:9] new[1:9]
+2022-06-08 23:39:46,514 DEBUG parse_part from 10 to 10 (to 10 in part parser)
+2022-06-08 23:39:46,515 DEBUG -> code[replace] old[11:11] new[11:13]
+2022-06-08 23:39:46,517 DEBUG parse_part from 11 to 13 (to 12 in part parser)
+2022-06-08 23:39:46,517 DEBUG diff parser end
+2022-06-08 23:42:03,180 DEBUG diff parser start
+2022-06-08 23:42:03,181 DEBUG line_lengths old: 13; new: 16
+2022-06-08 23:42:03,182 DEBUG -> code[equal] old[1:12] new[1:12]
+2022-06-08 23:42:03,184 DEBUG copy old[1:9] new[1:9]
+2022-06-08 23:42:03,187 DEBUG parse_part from 10 to 10 (to 10 in part parser)
+2022-06-08 23:42:03,191 DEBUG parse_part from 11 to 14 (to 15 in part parser)
+2022-06-08 23:42:03,191 DEBUG -> code[replace] old[13:13] new[13:16]
+2022-06-08 23:42:03,193 DEBUG parse_part from 15 to 16 (to 15 in part parser)
+2022-06-08 23:42:03,194 DEBUG diff parser end
+2022-06-08 23:42:15,649 DEBUG diff parser start
+2022-06-08 23:42:15,650 DEBUG line_lengths old: 16; new: 18
+2022-06-08 23:42:15,651 DEBUG -> code[equal] old[1:15] new[1:15]
+2022-06-08 23:42:15,652 DEBUG copy old[1:14] new[1:14]
+2022-06-08 23:42:15,653 DEBUG parse_part from 15 to 15 (to 15 in part parser)
+2022-06-08 23:42:15,654 DEBUG -> code[replace] old[16:16] new[16:18]
+2022-06-08 23:42:15,656 DEBUG parse_part from 16 to 18 (to 17 in part parser)
+2022-06-08 23:42:15,656 DEBUG diff parser end
+2022-06-08 23:44:29,235 DEBUG diff parser start
+2022-06-08 23:44:29,237 DEBUG line_lengths old: 18; new: 21
+2022-06-08 23:44:29,237 DEBUG -> code[equal] old[1:17] new[1:17]
+2022-06-08 23:44:29,238 DEBUG copy old[1:14] new[1:14]
+2022-06-08 23:44:29,240 DEBUG parse_part from 15 to 15 (to 15 in part parser)
+2022-06-08 23:44:29,242 DEBUG parse_part from 16 to 19 (to 20 in part parser)
+2022-06-08 23:44:29,243 DEBUG -> code[replace] old[18:18] new[18:21]
+2022-06-08 23:44:29,243 DEBUG parse_part from 20 to 21 (to 20 in part parser)
+2022-06-08 23:44:29,243 DEBUG diff parser end
+2022-06-08 23:44:31,933 DEBUG diff parser start
+2022-06-08 23:44:31,934 DEBUG line_lengths old: 21; new: 21
+2022-06-08 23:44:31,934 DEBUG -> code[equal] old[1:20] new[1:20]
+2022-06-08 23:44:31,936 DEBUG copy old[1:19] new[1:19]
+2022-06-08 23:44:31,937 DEBUG parse_part from 20 to 20 (to 20 in part parser)
+2022-06-08 23:44:31,938 DEBUG -> code[replace] old[21:21] new[21:21]
+2022-06-08 23:44:31,939 DEBUG parse_part from 21 to 21 (to 20 in part parser)
+2022-06-08 23:44:31,940 DEBUG diff parser end
+2022-06-08 23:44:33,137 DEBUG diff parser start
+2022-06-08 23:44:33,139 DEBUG line_lengths old: 21; new: 21
+2022-06-08 23:44:33,139 DEBUG -> code[equal] old[1:20] new[1:20]
+2022-06-08 23:44:33,141 DEBUG copy old[1:19] new[1:19]
+2022-06-08 23:44:33,142 DEBUG parse_part from 20 to 20 (to 20 in part parser)
+2022-06-08 23:44:33,143 DEBUG -> code[replace] old[21:21] new[21:21]
+2022-06-08 23:44:33,144 DEBUG parse_part from 21 to 21 (to 20 in part parser)
+2022-06-08 23:44:33,145 DEBUG diff parser end
+2022-06-08 23:45:08,980 DEBUG diff parser start
+2022-06-08 23:45:08,982 DEBUG line_lengths old: 21; new: 23
+2022-06-08 23:45:08,983 DEBUG -> code[equal] old[1:20] new[1:20]
+2022-06-08 23:45:08,985 DEBUG copy old[1:19] new[1:19]
+2022-06-08 23:45:08,986 DEBUG parse_part from 20 to 20 (to 20 in part parser)
+2022-06-08 23:45:08,987 DEBUG -> code[replace] old[21:21] new[21:23]
+2022-06-08 23:45:08,988 DEBUG parse_part from 21 to 23 (to 22 in part parser)
+2022-06-08 23:45:08,989 DEBUG diff parser end
+2022-06-08 23:47:55,845 DEBUG diff parser start
+2022-06-08 23:47:55,847 DEBUG line_lengths old: 23; new: 26
+2022-06-08 23:47:55,847 DEBUG -> code[equal] old[1:20] new[1:20]
+2022-06-08 23:47:55,849 DEBUG copy old[1:19] new[1:19]
+2022-06-08 23:47:55,853 DEBUG parse_part from 20 to 20 (to 20 in part parser)
+2022-06-08 23:47:55,854 DEBUG -> code[replace] old[21:21] new[21:21]
+2022-06-08 23:47:55,857 DEBUG parse_part from 21 to 24 (to 25 in part parser)
+2022-06-08 23:47:55,858 DEBUG -> code[equal] old[22:22] new[22:22]
+2022-06-08 23:47:55,858 DEBUG -> code[replace] old[23:23] new[23:26]
+2022-06-08 23:47:55,859 DEBUG parse_part from 25 to 26 (to 25 in part parser)
+2022-06-08 23:47:55,860 DEBUG diff parser end
+2022-06-08 23:48:40,742 DEBUG diff parser start
+2022-06-08 23:48:40,743 DEBUG line_lengths old: 26; new: 27
+2022-06-08 23:48:40,744 DEBUG -> code[equal] old[1:25] new[1:25]
+2022-06-08 23:48:40,745 DEBUG copy old[1:24] new[1:24]
+2022-06-08 23:48:40,747 DEBUG parse_part from 25 to 25 (to 25 in part parser)
+2022-06-08 23:48:40,747 DEBUG -> code[replace] old[26:26] new[26:27]
+2022-06-08 23:48:40,749 DEBUG parse_part from 26 to 27 (to 26 in part parser)
+2022-06-08 23:48:40,751 DEBUG diff parser end
+2022-06-08 23:48:54,664 DEBUG diff parser start
+2022-06-08 23:48:54,665 DEBUG line_lengths old: 27; new: 29
+2022-06-08 23:48:54,666 DEBUG -> code[equal] old[1:26] new[1:26]
+2022-06-08 23:48:54,667 DEBUG copy old[1:26] new[1:26]
+2022-06-08 23:48:54,668 DEBUG -> code[replace] old[27:27] new[27:29]
+2022-06-08 23:48:54,670 DEBUG parse_part from 27 to 29 (to 28 in part parser)
+2022-06-08 23:48:54,670 DEBUG diff parser end
+2022-06-08 23:48:59,827 DEBUG diff parser start
+2022-06-08 23:48:59,829 DEBUG line_lengths old: 29; new: 30
+2022-06-08 23:48:59,830 DEBUG -> code[equal] old[1:28] new[1:28]
+2022-06-08 23:48:59,831 DEBUG copy old[1:27] new[1:27]
+2022-06-08 23:48:59,833 DEBUG parse_part from 28 to 29 (to 29 in part parser)
+2022-06-08 23:48:59,834 DEBUG -> code[replace] old[29:29] new[29:30]
+2022-06-08 23:48:59,835 DEBUG parse_part from 30 to 30 (to 29 in part parser)
+2022-06-08 23:48:59,835 DEBUG diff parser end
+2022-06-08 23:49:08,387 DEBUG diff parser start
+2022-06-08 23:49:08,389 DEBUG line_lengths old: 30; new: 32
+2022-06-08 23:49:08,389 DEBUG -> code[equal] old[1:29] new[1:29]
+2022-06-08 23:49:08,390 DEBUG copy old[1:29] new[1:29]
+2022-06-08 23:49:08,391 DEBUG -> code[replace] old[30:30] new[30:32]
+2022-06-08 23:49:08,393 DEBUG parse_part from 30 to 33 (to 31 in part parser)
+2022-06-08 23:49:08,393 DEBUG diff parser end
+2022-06-08 23:49:10,479 DEBUG diff parser start
+2022-06-08 23:49:10,480 DEBUG line_lengths old: 32; new: 32
+2022-06-08 23:49:10,480 DEBUG -> code[equal] old[1:31] new[1:31]
+2022-06-08 23:49:10,481 DEBUG copy old[1:30] new[1:30]
+2022-06-08 23:49:10,482 DEBUG parse_part from 31 to 32 (to 31 in part parser)
+2022-06-08 23:49:10,482 DEBUG -> code[replace] old[32:32] new[32:32]
+2022-06-08 23:49:10,482 DEBUG diff parser end
+2022-06-08 23:49:13,012 DEBUG diff parser start
+2022-06-08 23:49:13,014 DEBUG line_lengths old: 32; new: 32
+2022-06-08 23:49:13,014 DEBUG -> code[equal] old[1:31] new[1:31]
+2022-06-08 23:49:13,016 DEBUG copy old[1:30] new[1:30]
+2022-06-08 23:49:13,017 DEBUG parse_part from 31 to 32 (to 31 in part parser)
+2022-06-08 23:49:13,018 DEBUG -> code[replace] old[32:32] new[32:32]
+2022-06-08 23:49:13,019 DEBUG diff parser end
+2022-06-08 23:49:16,541 DEBUG diff parser start
+2022-06-08 23:49:16,542 DEBUG line_lengths old: 32; new: 32
+2022-06-08 23:49:16,542 DEBUG -> code[equal] old[1:31] new[1:31]
+2022-06-08 23:49:16,543 DEBUG copy old[1:30] new[1:30]
+2022-06-08 23:49:16,545 DEBUG parse_part from 31 to 32 (to 31 in part parser)
+2022-06-08 23:49:16,546 DEBUG -> code[replace] old[32:32] new[32:32]
+2022-06-08 23:49:16,546 DEBUG diff parser end
+2022-06-08 23:49:29,839 DEBUG diff parser start
+2022-06-08 23:49:29,839 DEBUG line_lengths old: 32; new: 33
+2022-06-08 23:49:29,840 DEBUG -> code[equal] old[1:31] new[1:31]
+2022-06-08 23:49:29,840 DEBUG copy old[1:30] new[1:30]
+2022-06-08 23:49:29,841 DEBUG parse_part from 31 to 32 (to 32 in part parser)
+2022-06-08 23:49:29,841 DEBUG -> code[replace] old[32:32] new[32:33]
+2022-06-08 23:49:29,842 DEBUG parse_part from 33 to 33 (to 32 in part parser)
+2022-06-08 23:49:29,842 DEBUG diff parser end
+2022-06-09 00:07:13,003 DEBUG diff parser start
+2022-06-09 00:07:13,004 DEBUG line_lengths old: 33; new: 25
+2022-06-09 00:07:13,005 DEBUG -> code[equal] old[1:2] new[1:2]
+2022-06-09 00:07:13,006 DEBUG copy old[1:1] new[1:1]
+2022-06-09 00:07:13,012 DEBUG parse_part from 2 to 9 (to 10 in part parser)
+2022-06-09 00:07:13,013 DEBUG -> code[replace] old[3:3] new[3:23]
+2022-06-09 00:07:13,017 DEBUG parse_part from 10 to 25 (to 24 in part parser)
+2022-06-09 00:07:13,017 DEBUG -> code[equal] old[4:4] new[24:24]
+2022-06-09 00:07:13,018 DEBUG -> code[replace] old[5:33] new[25:25]
+2022-06-09 00:07:13,018 DEBUG diff parser end
+2022-06-09 00:07:41,083 DEBUG diff parser start
+2022-06-09 00:07:41,084 DEBUG line_lengths old: 25; new: 26
+2022-06-09 00:07:41,085 DEBUG -> code[equal] old[1:24] new[1:24]
+2022-06-09 00:07:41,086 DEBUG copy old[1:22] new[1:22]
+2022-06-09 00:07:41,088 DEBUG parse_part from 23 to 24 (to 24 in part parser)
+2022-06-09 00:07:41,089 DEBUG -> code[replace] old[25:25] new[25:26]
+2022-06-09 00:07:41,093 DEBUG parse_part from 25 to 26 (to 25 in part parser)
+2022-06-09 00:07:41,093 DEBUG diff parser end
+2022-06-09 00:07:44,671 DEBUG diff parser start
+2022-06-09 00:07:44,672 DEBUG line_lengths old: 26; new: 27
+2022-06-09 00:07:44,673 DEBUG -> code[equal] old[1:25] new[1:25]
+2022-06-09 00:07:44,674 DEBUG copy old[1:25] new[1:25]
+2022-06-09 00:07:44,674 DEBUG -> code[replace] old[26:26] new[26:27]
+2022-06-09 00:07:44,676 DEBUG parse_part from 26 to 27 (to 26 in part parser)
+2022-06-09 00:07:44,677 DEBUG diff parser end
+2022-06-09 00:07:46,565 DEBUG diff parser start
+2022-06-09 00:07:46,565 DEBUG line_lengths old: 27; new: 27
+2022-06-09 00:07:46,565 DEBUG -> code[equal] old[1:26] new[1:26]
+2022-06-09 00:07:46,565 DEBUG copy old[1:26] new[1:26]
+2022-06-09 00:07:46,565 DEBUG -> code[replace] old[27:27] new[27:27]
+2022-06-09 00:07:46,566 DEBUG parse_part from 27 to 27 (to 26 in part parser)
+2022-06-09 00:07:46,566 DEBUG diff parser end
+2022-06-09 00:07:48,421 DEBUG diff parser start
+2022-06-09 00:07:48,422 DEBUG line_lengths old: 27; new: 27
+2022-06-09 00:07:48,422 DEBUG -> code[equal] old[1:26] new[1:26]
+2022-06-09 00:07:48,423 DEBUG copy old[1:26] new[1:26]
+2022-06-09 00:07:48,423 DEBUG -> code[replace] old[27:27] new[27:27]
+2022-06-09 00:07:48,424 DEBUG parse_part from 27 to 27 (to 26 in part parser)
+2022-06-09 00:07:48,424 DEBUG diff parser end
+2022-06-09 00:07:50,918 DEBUG diff parser start
+2022-06-09 00:07:50,919 DEBUG line_lengths old: 27; new: 28
+2022-06-09 00:07:50,920 DEBUG -> code[equal] old[1:26] new[1:26]
+2022-06-09 00:07:50,921 DEBUG copy old[1:26] new[1:26]
+2022-06-09 00:07:50,921 DEBUG -> code[replace] old[27:27] new[27:28]
+2022-06-09 00:07:50,923 DEBUG parse_part from 27 to 28 (to 27 in part parser)
+2022-06-09 00:07:50,923 DEBUG diff parser end
+2022-06-09 00:07:52,796 DEBUG diff parser start
+2022-06-09 00:07:52,798 DEBUG line_lengths old: 28; new: 28
+2022-06-09 00:07:52,798 DEBUG -> code[equal] old[1:27] new[1:27]
+2022-06-09 00:07:52,799 DEBUG copy old[1:27] new[1:27]
+2022-06-09 00:07:52,800 DEBUG -> code[replace] old[28:28] new[28:28]
+2022-06-09 00:07:52,801 DEBUG parse_part from 28 to 28 (to 27 in part parser)
+2022-06-09 00:07:52,801 DEBUG diff parser end
+2022-06-09 00:08:01,390 DEBUG diff parser start
+2022-06-09 00:08:01,391 DEBUG line_lengths old: 28; new: 29
+2022-06-09 00:08:01,392 DEBUG -> code[equal] old[1:27] new[1:27]
+2022-06-09 00:08:01,392 DEBUG copy old[1:27] new[1:27]
+2022-06-09 00:08:01,393 DEBUG -> code[replace] old[28:28] new[28:29]
+2022-06-09 00:08:01,394 DEBUG parse_part from 28 to 29 (to 28 in part parser)
+2022-06-09 00:08:01,395 DEBUG diff parser end
+2022-06-09 00:08:03,487 DEBUG diff parser start
+2022-06-09 00:08:03,488 DEBUG line_lengths old: 29; new: 29
+2022-06-09 00:08:03,488 DEBUG -> code[equal] old[1:28] new[1:28]
+2022-06-09 00:08:03,489 DEBUG copy old[1:28] new[1:28]
+2022-06-09 00:08:03,490 DEBUG -> code[replace] old[29:29] new[29:29]
+2022-06-09 00:08:03,491 DEBUG parse_part from 29 to 29 (to 28 in part parser)
+2022-06-09 00:08:03,491 DEBUG diff parser end
+2022-06-09 00:08:10,459 DEBUG diff parser start
+2022-06-09 00:08:10,460 DEBUG line_lengths old: 29; new: 30
+2022-06-09 00:08:10,460 DEBUG -> code[equal] old[1:28] new[1:28]
+2022-06-09 00:08:10,461 DEBUG copy old[1:28] new[1:28]
+2022-06-09 00:08:10,461 DEBUG -> code[replace] old[29:29] new[29:30]
+2022-06-09 00:08:10,463 DEBUG parse_part from 29 to 30 (to 29 in part parser)
+2022-06-09 00:08:10,464 DEBUG diff parser end
+2022-06-09 00:08:11,899 DEBUG diff parser start
+2022-06-09 00:08:11,900 DEBUG line_lengths old: 30; new: 30
+2022-06-09 00:08:11,901 DEBUG -> code[equal] old[1:29] new[1:29]
+2022-06-09 00:08:11,902 DEBUG copy old[1:29] new[1:29]
+2022-06-09 00:08:11,903 DEBUG -> code[replace] old[30:30] new[30:30]
+2022-06-09 00:08:11,904 DEBUG parse_part from 30 to 30 (to 29 in part parser)
+2022-06-09 00:08:11,904 DEBUG diff parser end
+2022-06-09 00:08:20,948 DEBUG diff parser start
+2022-06-09 00:08:20,950 DEBUG line_lengths old: 30; new: 32
+2022-06-09 00:08:20,950 DEBUG -> code[equal] old[1:29] new[1:29]
+2022-06-09 00:08:20,951 DEBUG copy old[1:29] new[1:29]
+2022-06-09 00:08:20,952 DEBUG -> code[replace] old[30:30] new[30:32]
+2022-06-09 00:08:20,954 DEBUG parse_part from 30 to 32 (to 31 in part parser)
+2022-06-09 00:08:20,954 DEBUG diff parser end
+2022-06-09 00:08:23,126 DEBUG diff parser start
+2022-06-09 00:08:23,128 DEBUG line_lengths old: 32; new: 32
+2022-06-09 00:08:23,128 DEBUG -> code[equal] old[1:31] new[1:31]
+2022-06-09 00:08:23,129 DEBUG copy old[1:31] new[1:31]
+2022-06-09 00:08:23,130 DEBUG -> code[replace] old[32:32] new[32:32]
+2022-06-09 00:08:23,131 DEBUG parse_part from 32 to 32 (to 31 in part parser)
+2022-06-09 00:08:23,132 DEBUG diff parser end
+2022-06-09 00:08:27,976 DEBUG diff parser start
+2022-06-09 00:08:27,978 DEBUG line_lengths old: 32; new: 33
+2022-06-09 00:08:27,978 DEBUG -> code[equal] old[1:31] new[1:31]
+2022-06-09 00:08:27,979 DEBUG copy old[1:31] new[1:31]
+2022-06-09 00:08:27,980 DEBUG -> code[replace] old[32:32] new[32:33]
+2022-06-09 00:08:27,981 DEBUG parse_part from 32 to 33 (to 32 in part parser)
+2022-06-09 00:08:27,982 DEBUG diff parser end
+2022-06-09 00:08:30,658 DEBUG diff parser start
+2022-06-09 00:08:30,659 DEBUG line_lengths old: 33; new: 33
+2022-06-09 00:08:30,660 DEBUG -> code[equal] old[1:32] new[1:32]
+2022-06-09 00:08:30,661 DEBUG copy old[1:32] new[1:32]
+2022-06-09 00:08:30,662 DEBUG -> code[replace] old[33:33] new[33:33]
+2022-06-09 00:08:30,663 DEBUG parse_part from 33 to 33 (to 32 in part parser)
+2022-06-09 00:08:30,663 DEBUG diff parser end
+2022-06-09 00:18:11,448 DEBUG diff parser start
+2022-06-09 00:18:11,449 DEBUG line_lengths old: 33; new: 8
+2022-06-09 00:18:11,449 DEBUG -> code[replace] old[1:1] new[1:1]
+2022-06-09 00:18:11,450 DEBUG parse_part from 1 to 1 (to 2 in part parser)
+2022-06-09 00:18:11,450 DEBUG -> code[equal] old[2:2] new[2:2]
+2022-06-09 00:18:11,451 DEBUG parse_part from 2 to 8 (to 7 in part parser)
+2022-06-09 00:18:11,451 DEBUG -> code[replace] old[3:33] new[3:8]
+2022-06-09 00:18:11,451 DEBUG diff parser end
+2022-06-09 00:20:19,773 DEBUG diff parser start
+2022-06-09 00:20:19,774 DEBUG line_lengths old: 8; new: 3
+2022-06-09 00:20:19,774 DEBUG -> code[replace] old[1:1] new[1:1]
+2022-06-09 00:20:19,775 DEBUG parse_part from 1 to 3 (to 2 in part parser)
+2022-06-09 00:20:19,775 DEBUG -> code[equal] old[2:2] new[2:2]
+2022-06-09 00:20:19,776 DEBUG -> code[replace] old[3:8] new[3:3]
+2022-06-09 00:20:19,776 DEBUG diff parser end
+2022-06-09 00:21:46,625 DEBUG diff parser start
+2022-06-09 00:21:46,625 DEBUG line_lengths old: 3; new: 1
+2022-06-09 00:21:46,625 DEBUG -> code[replace] old[1:3] new[1:1]
+2022-06-09 00:21:46,625 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2022-06-09 00:21:46,625 DEBUG diff parser end
