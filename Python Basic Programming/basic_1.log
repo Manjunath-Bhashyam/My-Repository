@@ -1,0 +1,18 @@
+2022-08-31 21:07:09,138 INFO Printing Hello Python
+2022-08-31 21:07:09,139 INFO Print Successful
+2022-08-31 21:07:18,727 INFO Performing Addition Operation
+2022-08-31 21:07:18,727 INFO Addition operation executed
+2022-08-31 21:07:18,728 INFO Performing Division Operation
+2022-08-31 21:07:18,729 INFO Division operation executed
+2022-08-31 21:07:18,751 INFO Performing Addition Operation
+2022-08-31 21:07:18,752 ERROR division by zero not possible
+2022-08-31 21:07:42,802 INFO Area of triangle is 300.0
+2022-08-31 21:07:42,803 INFO Area of triangle is successfully calculated
+2022-08-31 21:07:51,376 INFO Swapping Successful from Joker to King and King to Joker
+2022-08-31 21:07:51,377 INFO swapping successful
+2022-08-31 21:07:58,890 INFO obtained random integer between (1, 100) is 81
+2022-08-31 21:07:58,891 INFO Random Number Selected and provided output
+2022-08-31 21:08:14,519 INFO Performing Addition Operation
+2022-08-31 21:08:14,520 INFO Addition operation executed
+2022-08-31 21:08:14,521 INFO Performing Division Operation
+2022-08-31 21:08:14,521 INFO Division operation executed
